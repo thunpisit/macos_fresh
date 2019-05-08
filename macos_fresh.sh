@@ -1,7 +1,4 @@
 #!/bin/sh
-echo manually install apps from AppStore
-read -p “Press any key to continue… “ -n1 -s
-echo  ‘\n’
 
 #Homebrew and Cask
 echo installing homebrew
